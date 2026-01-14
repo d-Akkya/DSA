@@ -1,3 +1,1 @@
-const author: string = "d-akkya";
-
-console.log(author);
+export { default as reverseString } from "./reverseString.js";
